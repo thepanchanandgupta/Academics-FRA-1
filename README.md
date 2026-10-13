@@ -47,10 +47,6 @@ Click **Upload your prices** (or drop a file anywhere on the page). The whole da
 | `data/sample_with_portfolios.xlsx` | Same prices plus a `Portfolios` sheet, to show the upload format |
 | `.nojekyll` | Tells GitHub Pages to serve the files as they are |
 
-## Run locally
-
-Open `index.html` in a browser. The QR code appears once the page is served over http(s), for example with `python -m http.server`.
-
 ## Team
 
 | Roll No. | Name |
